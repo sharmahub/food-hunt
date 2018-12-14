@@ -64,7 +64,7 @@ int main()
 
     Border();
 
-    Food(); //to generate food coordinates initially
+    Food(); //to generate foods coordinates initially
 
     life=3; //number of extra lives
 
